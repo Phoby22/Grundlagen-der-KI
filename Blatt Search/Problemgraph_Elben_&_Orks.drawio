@@ -1,0 +1,181 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.3">
+  <diagram name="Seite-1" id="2mzn8DQ6tZg3fxf6GBPc">
+    <mxGraphModel dx="1573" dy="1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Edded5qJz_bhWKSfauPO-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-6" target="Edded5qJz_bhWKSfauPO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-11" value="Pferd[1Ork]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-10">
+          <mxGeometry x="0.1039" relative="1" as="geometry">
+            <mxPoint x="2" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-6" target="Edded5qJz_bhWKSfauPO-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-14" value="Pferd[2Orks]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-13">
+          <mxGeometry x="-0.0787" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-6" target="Edded5qJz_bhWKSfauPO-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-17" value="Pferd[1Elben, 1Ork]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-16">
+          <mxGeometry x="-0.0705" y="2" relative="1" as="geometry">
+            <mxPoint x="9" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-6" value="Start&lt;br&gt;&lt;div&gt;Ufer1: [3 Elben, 3 Orks]&lt;/div&gt;&lt;div&gt;Ufer2: [ ]&lt;/div&gt;&lt;div&gt;Pferd: Ufer1&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="91" y="-83" width="132.75" height="132.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-8" value="1&lt;br&gt;&lt;div&gt;Ufer1: [3, 2]&lt;/div&gt;&lt;div&gt;Ufer2: [0, 1]&lt;/div&gt;&lt;div&gt;Pferd: Ufer2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-79" y="131" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" target="Edded5qJz_bhWKSfauPO-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="157" y="239" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-23" value="Pferd[1Ork]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-20">
+          <mxGeometry x="-0.1467" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-12" value="2&lt;br&gt;&lt;div&gt;Ufer1: [3, 1]&lt;/div&gt;&lt;div&gt;Ufer2: [0, 2]&lt;/div&gt;&lt;div&gt;Pferd: Ufer2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="131" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-15" value="3&lt;br&gt;&lt;div&gt;Ufer1: [2, 2]&lt;/div&gt;&lt;div&gt;Ufer2: [1, 1]&lt;/div&gt;&lt;div&gt;Pferd: Ufer2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="286" y="131" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" target="Edded5qJz_bhWKSfauPO-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="157" y="407" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-24" value="Pferd[2Orks]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-22">
+          <mxGeometry x="-0.2614" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-18" target="Edded5qJz_bhWKSfauPO-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="24.970377836427815" y="482.77962216357196" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-27" value="Pferd[1Elben]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-26">
+          <mxGeometry x="-0.077" y="-2" relative="1" as="geometry">
+            <mxPoint x="9" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-18" value="4&lt;br&gt;&lt;div&gt;Ufer1: [3, 2]&lt;/div&gt;&lt;div&gt;Ufer2: [0, 1]&lt;/div&gt;&lt;div&gt;Pferd: Ufer1&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="299" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-21" target="Edded5qJz_bhWKSfauPO-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-33" value="Pferd[1Ork]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-32">
+          <mxGeometry x="-0.1045" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-21" value="5&lt;br&gt;&lt;div&gt;Ufer1: [3, 0]&lt;/div&gt;&lt;div&gt;Ufer2: [0, 3]&lt;/div&gt;&lt;div&gt;Pferd: Ufer2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="467" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-35" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-31" target="Edded5qJz_bhWKSfauPO-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-36" value="Pferd[2Elben]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-35">
+          <mxGeometry x="-0.1655" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-31" value="6&lt;br&gt;&lt;div&gt;Ufer1: [3, 1]&lt;/div&gt;&lt;div&gt;Ufer2: [0, 2]&lt;/div&gt;&lt;div&gt;Pferd: Ufer1&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="635" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-34" target="Edded5qJz_bhWKSfauPO-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-42" value="Pferd[1Elben, 1Ork]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-38">
+          <mxGeometry x="-0.1606" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-34" value="7&lt;br&gt;&lt;div&gt;Ufer1: [1, 1]&lt;/div&gt;&lt;div&gt;Ufer2: [2, 2]&lt;/div&gt;&lt;div&gt;Pferd: Ufer2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="803" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-37" target="Edded5qJz_bhWKSfauPO-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-45" value="Pferd[2Elben]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-44">
+          <mxGeometry x="-0.0819" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-37" value="8&lt;br&gt;&lt;div&gt;Ufer1: [2, 2]&lt;/div&gt;&lt;div&gt;Ufer2: [1, 1]&lt;/div&gt;&lt;div&gt;Pferd: Ufer1&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="971" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-43" target="Edded5qJz_bhWKSfauPO-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-48" value="Pferd[1Ork]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-47">
+          <mxGeometry x="-0.0954" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-43" value="9&lt;br&gt;&lt;div&gt;Ufer1: [0, 2]&lt;/div&gt;&lt;div&gt;Ufer2: [3, 1]&lt;/div&gt;&lt;div&gt;Pferd: Ufer2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="1139" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-46" target="Edded5qJz_bhWKSfauPO-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-51" value="Pferd[2Orks]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-50">
+          <mxGeometry x="-0.0954" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-46" value="&lt;div&gt;10&lt;/div&gt;&lt;div&gt;Ufer1: [0, 3]&lt;/div&gt;&lt;div&gt;Ufer2: [3, 0]&lt;/div&gt;&lt;div&gt;Pferd: Ufer1&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="1307" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-49" target="Edded5qJz_bhWKSfauPO-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-54" value="Pferd[1Ork]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-53">
+          <mxGeometry x="-0.029" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-49" target="Edded5qJz_bhWKSfauPO-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-57" value="Pferd[1Elben]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-56">
+          <mxGeometry x="-0.1052" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-49" value="&lt;div&gt;11&lt;/div&gt;&lt;div&gt;Ufer1: [0, 1]&lt;/div&gt;&lt;div&gt;Ufer2: [3, 2]&lt;/div&gt;&lt;div&gt;Pferd: Ufer2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="1475" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="Edded5qJz_bhWKSfauPO-52" target="Edded5qJz_bhWKSfauPO-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-60" value="Pferd[2Orks]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="Edded5qJz_bhWKSfauPO-59">
+          <mxGeometry x="-0.0646" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-52" value="&lt;div&gt;13&lt;/div&gt;&lt;div&gt;Ufer1: [0, 2]&lt;/div&gt;&lt;div&gt;Ufer2: [3, 1]&lt;/div&gt;&lt;div&gt;Pferd: Ufer1&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="1643" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-55" value="&lt;div&gt;12&lt;/div&gt;&lt;div&gt;Ufer1: [1, 1]&lt;/div&gt;&lt;div&gt;Ufer2: [2, 2]&lt;/div&gt;&lt;div&gt;Pferd: Ufer1&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-67" y="1643" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Edded5qJz_bhWKSfauPO-58" value="&lt;div&gt;End&lt;/div&gt;&lt;div&gt;Ufer1: [0, 0]&lt;/div&gt;&lt;div&gt;Ufer2: [3, 3]&lt;/div&gt;&lt;div&gt;Pferd: Ufer2&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="103.5" y="1811" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
